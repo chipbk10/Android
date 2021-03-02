@@ -24,8 +24,10 @@
                [2](https://www.youtube.com/watch?v=IPWnPGLAK8Y&ab_channel=CodinginFlow),
                [3](https://www.youtube.com/watch?v=oCpwq-TX0wc&ab_channel=CodinginFlow),
                [4](https://www.youtube.com/watch?v=IRL5Z6CarBw&ab_channel=CodinginFlow),
-               [5](),
-               [6]()
+               [5](https://www.youtube.com/watch?v=pRBhrrpAyP8&ab_channel=CodinginFlow),
+               [6](https://www.youtube.com/watch?v=y2M8gLBUeW4&ab_channel=CodinginFlow),
+               [7](https://www.youtube.com/watch?v=r3bGlWtUcuY&ab_channel=CodinginFlow),
+               [8](https://www.youtube.com/watch?v=EjD_3ifOxVA&ab_channel=CodinginFlow)
 
 
 # Java
