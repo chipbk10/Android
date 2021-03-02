@@ -22,8 +22,8 @@
 - MVVM demo (Paging 3, Glide, Retrofit with Coroutines, Navigation Component, View Binding, Dagger Hilt)
                [1](https://www.youtube.com/watch?v=m_cMJehM9xc&ab_channel=CodinginFlow),
                [2](https://www.youtube.com/watch?v=IPWnPGLAK8Y&ab_channel=CodinginFlow),
-               [3](),
-               [4](),
+               [3](https://www.youtube.com/watch?v=oCpwq-TX0wc&ab_channel=CodinginFlow),
+               [4](https://www.youtube.com/watch?v=IRL5Z6CarBw&ab_channel=CodinginFlow),
                [5](),
                [6]()
 
