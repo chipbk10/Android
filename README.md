@@ -19,7 +19,14 @@
           [12](https://www.youtube.com/watch?v=cLT3jsJdxuk&ab_channel=CodinginFlow),
           [13](https://www.youtube.com/watch?v=zoj9MYxup-0&ab_channel=CodinginFlow),
           [14](https://www.youtube.com/watch?v=V9wSqfvErak&ab_channel=CodinginFlow)
-- XYZ
+- MVVM demo (Paging 3, Glide, Retrofit with Coroutines, Navigation Component, View Binding, Dagger Hilt)
+               [1](https://www.youtube.com/watch?v=m_cMJehM9xc&ab_channel=CodinginFlow),
+               [2](https://www.youtube.com/watch?v=IPWnPGLAK8Y&ab_channel=CodinginFlow),
+               [3](),
+               [4](),
+               [5](),
+               [6]()
+
 
 # Java
 
