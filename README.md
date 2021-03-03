@@ -27,7 +27,12 @@
                [5](https://www.youtube.com/watch?v=pRBhrrpAyP8&ab_channel=CodinginFlow),
                [6](https://www.youtube.com/watch?v=y2M8gLBUeW4&ab_channel=CodinginFlow),
                [7](https://www.youtube.com/watch?v=r3bGlWtUcuY&ab_channel=CodinginFlow),
-               [8](https://www.youtube.com/watch?v=EjD_3ifOxVA&ab_channel=CodinginFlow)
+               [8](https://www.youtube.com/watch?v=EjD_3ifOxVA&ab_channel=CodinginFlow),
+               [9](https://www.youtube.com/watch?v=We1cVhZHirk&ab_channel=CodinginFlow),
+               [10](https://www.youtube.com/watch?v=xao8KwaaKwQ&ab_channel=CodinginFlow),
+               [11](https://www.youtube.com/watch?v=sLY7ywrYUNw&ab_channel=CodinginFlow),
+               [12](https://www.youtube.com/watch?v=RJusvbfSX-0&ab_channel=CodinginFlow),
+               [13](https://www.youtube.com/watch?v=KsKXYOLrTXw&ab_channel=CodinginFlow)
 
 
 # Java
