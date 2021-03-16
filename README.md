@@ -52,6 +52,8 @@
           [14](https://www.youtube.com/watch?v=z3q943EPP5s&ab_channel=CodinginFlow)
 (MVVM, Kotlin, Room, Dagger Hilt)
 
+- [How to create 2D Game in Android](https://bit.ly/3rU5j5N)
+
 
 # Java
 
